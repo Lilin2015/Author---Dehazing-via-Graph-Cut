@@ -15,5 +15,7 @@ There are some known problems of the demo:
 3) the core code of graph cut is compatible with gray-scale images, 
    but the whole program is still wrote for RGB-image.
    You can achieve it by some simple modification without changing the core code of graph cut.
+*************************************************************
+Examples:
 
 ![image](https://github.com/Lilin2015/Dehazing-via-Graph-Cut/raw/master/display/display.png)
